@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Natasha Everitt",
+            "title": "Stuart Broad produces heroics on cricket swansong as England deny Australia Ashes series win...",
+            "description": "Stuart Broad ended his final cricket match in style as his two late wickets helped deny Australia an Ashes series win on English soil. England couldn’t win back the urn after the fourth Test …",
+            "url": "https://talksport.com/sport/cricket/1517506/the-ashes-result-england-australia-stuart-broad/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/07/LB-comp-ashes-broad-talksport-copy.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-07-31T17:35:28Z",
+            "content": "Stuart Broad ended his final cricket match in style as his two late wickets helped deny Australia an Ashes series win on English soil. \r\nEngland couldn't win back the urn after the fourth Test was ra… [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Daanyal Saeed",
+            "title": "Stokes slammed in ‘spirit of cricket’ shame",
+            "description": "Ben Stokes has come under fire in the wake of his Herschelle Gibbs moment in the Fifth Ashes Test.",
+            "url": "https://www.news.com.au/sport/cricket/the-ashes/ben-stokes-drops-ball-while-celebrating-in-moment-of-madness-in-fifth-ashes-test/news-story/307184ee0e8968cadc29c624bffbc108",
+            "urlToImage": "https://content.api.news/v3/images/bin/434754afa7b82cd3c8825863a9a14be8",
+            "publishedAt": "2023-07-31T15:42:00Z",
+            "content": "Ben Stokes has come under fire in the wake of his Herschelle Gibbs moment in the Fifth Ashes Test.\r\nStokes gave Steve Smith an extraordinary reprieve when he dropped the Aussie star while celebrating… [+4434 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
